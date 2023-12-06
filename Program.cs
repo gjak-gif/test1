@@ -5,3 +5,5 @@ if (num > 99 && num < 1000) {
 } else {
     Console.WriteLine("Некорректное число");
 }
+hjjjjj
+jjjjjj
